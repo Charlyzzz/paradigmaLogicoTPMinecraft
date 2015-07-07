@@ -10,7 +10,8 @@ comestible(pan).
 comestible(panceta).
 comestible(pollo).
 comestible(pescado).
-/*Te sugiero este cambio blahblajhh 2*/
+/*Te sugiero este cambio/
+/*Te sugiero este cambio/
 comestible(caramelos).
 
 tieneItem(Jugador,Item):-
